@@ -1,0 +1,4 @@
+﻿  F10811_TurningBasket.c
+C:\Users\hanyw\OneDrive\바탕 화면\Coding\C언어\백준\Baekjoon_arr1\F10811_TurningBasket.c(6,32): warning C4101: 'iHZ' :참조되지 않은 지역 변수입니다.
+C:\Users\hanyw\OneDrive\바탕 화면\Coding\C언어\백준\Baekjoon_arr1\F10811_TurningBasket.c(6,45): warning C4101: 'iSum' :참조되지 않은 지역 변수입니다.
+  Baekjoon_arr1.vcxproj -> C:\Users\hanyw\OneDrive\바탕 화면\Coding\C언어\백준\Baekjoon_arr1\x64\Debug\Baekjoon_arr1.exe
