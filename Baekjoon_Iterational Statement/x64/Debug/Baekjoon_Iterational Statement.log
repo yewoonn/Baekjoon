@@ -1,0 +1,3 @@
+﻿  10951_PrintA+B.c
+C:\Users\hanyw\OneDrive\바탕 화면\Coding\C언어\백준\Baekjoon_Iterational Statement\10951_PrintA+B.c(8,11): warning C4101: 'iCheck' :참조되지 않은 지역 변수입니다.
+  Baekjoon_Iterational Statement.vcxproj -> C:\Users\hanyw\OneDrive\바탕 화면\Coding\C언어\백준\Baekjoon_Iterational Statement\x64\Debug\Baekjoon_Iterational Statement.exe
